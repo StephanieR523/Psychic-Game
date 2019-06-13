@@ -1,7 +1,7 @@
 body {
     font-family: 'Shadows Into Light', cursive;
     align-content: center;      
-    color: darkorchid;      
+    color: grey;      
     font-size: 1.5em;
     font-weight: bold;
     text-align:center;
@@ -18,9 +18,10 @@ body {
   .center {      
     width: 1024px;
     height: 768px;
-    padding-top: 200px;      
-    background-image: url("../images/new.JPG");
+    padding-top: 20px;      
+    background-image: url("../images/crystal.png");
     background-repeat: no-repeat;
+    margin-left: 2px;
   }
 
   .wrapper {
